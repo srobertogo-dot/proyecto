@@ -54,6 +54,12 @@ Content="Precio :"
                 Margin="10,0"
                 FontWeight="Bold"
                 Content="Agregar Prod"/>
-
+        <Button x:Name="btneliminar"
+                Grid.Row="3"
+                Grid.Column="0"
+                Margin="10,0"
+FontWeight="Bold"
+Content="elimibar Prod"
+                />
     </Grid>
 </Window>
